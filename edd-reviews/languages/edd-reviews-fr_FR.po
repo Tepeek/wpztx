@@ -1,0 +1,1141 @@
+# Copyright (C) 2015 Sunny Ratilal
+# This file is distributed under the same license as the Easy Digital Downloads - Product Reviews package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Product Reviews 1.3.9\n"
+"Report-Msgid-Bugs-To: https://easydigitaldownloads.com/\n"
+"POT-Creation-Date: 2016-10-05 06:40:38+00:00\n"
+"PO-Revision-Date: 2015-04-08 18:01+0100\n"
+"Last-Translator: fxbenard | FxB <fx@fxbenard.com>\n"
+"Language-Team: fxbenard | FxB <fx@fxbenard.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8beta1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-edd-reviews-fes-integration.php:97 edd-reviews.php:933
+msgid "Give Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:122
+#: classes/class-edd-reviews-fes-integration.php:158
+#: classes/class-edd-reviews-fes-integration.php:329
+msgid "%s Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:189
+#: classes/class-edd-reviews-fes-integration.php:663
+#: classes/class-edd-reviews-list-table.php:303
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:234
+#: edd-reviews.php:2794 edd-reviews.php:2922 edd-reviews.php:3035
+msgid "Nonce verification has failed"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:189
+#: classes/class-edd-reviews-fes-integration.php:663
+#: classes/class-edd-reviews-list-table.php:303
+#: classes/class-edd-reviews-upgrades.php:95
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:234
+#: edd-reviews.php:2245 edd-reviews.php:2249 edd-reviews.php:2794
+#: edd-reviews.php:2922 edd-reviews.php:3035
+msgid "Error"
+msgstr "Erreur"
+
+#: classes/class-edd-reviews-fes-integration.php:195
+#: classes/class-edd-reviews-fes-integration.php:199
+#: classes/class-edd-reviews-fes-integration.php:203
+#: classes/class-edd-reviews-fes-integration.php:224
+#: classes/class-edd-reviews-fes-integration.php:228
+#: classes/class-edd-reviews-fes-integration.php:232
+msgid "ERROR:"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:195
+#: classes/class-edd-reviews-fes-integration.php:224
+msgid "Please leave the vendor some comments."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:199
+#: classes/class-edd-reviews-fes-integration.php:232
+msgid "Please tell us if the item was as described."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:203
+#: classes/class-edd-reviews-fes-integration.php:228
+msgid "Please leave a star rating on your feedback."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:258
+msgid "New Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:259
+msgid ""
+"<p>New feedback has been left on your %s (<a href=\"%s\">%s</a>). Please "
+"check the %s Feedback tab of your %s Dashboard to view this feedback.</p>"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:261
+msgid "[%1$s] New Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:349
+msgid "Edit %s Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:353
+msgid "%s feedback updated successfully"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:366
+#: classes/class-edd-reviews-list-table.php:194
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:282
+#: edd-reviews.php:1052
+msgid "Author"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:370 edd-reviews.php:1056
+#, fuzzy
+msgid "Name:"
+msgstr "Nom"
+
+#: classes/class-edd-reviews-fes-integration.php:374 edd-reviews.php:1060
+#, fuzzy
+msgid "E-mail:"
+msgstr "E-Mail"
+
+#: classes/class-edd-reviews-fes-integration.php:380 edd-reviews.php:1066
+msgid "URL:"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:386 edd-reviews.php:1073
+#: templates/reviews-fes-vendor-feedback.php:19
+#, fuzzy
+msgid "Rating:"
+msgstr "Note"
+
+#: classes/class-edd-reviews-fes-integration.php:402
+#: templates/reviews-fes-vendor-feedback.php:21
+#: templates/shortcode-vendor-feedback.php:87
+#, fuzzy
+msgid "Comments"
+msgstr "Affiche les commentaires"
+
+#: classes/class-edd-reviews-fes-integration.php:413 edd-reviews.php:1101
+msgid "Status"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:421 edd-reviews.php:1120
+#, fuzzy
+msgid "Review status"
+msgstr "Avis"
+
+#: classes/class-edd-reviews-fes-integration.php:422
+#: classes/class-edd-reviews-list-table.php:176
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:177
+#: edd-reviews.php:1121
+msgid "Approved"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:423
+#: classes/class-edd-reviews-list-table.php:175
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:176
+#: edd-reviews.php:1122
+msgid "Pending"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:424
+#: classes/class-edd-reviews-list-table.php:177
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:178
+#: edd-reviews.php:1123
+msgid "Spam"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:428 edd-reviews.php:1127
+msgid "M j, Y @ H:i"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:429 edd-reviews.php:1128
+msgid "Submitted on: <b>%1$s</b>"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:453
+#: classes/class-edd-reviews-list-table.php:265
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:197
+#: edd-reviews.php:1151
+msgid "Move to Trash"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:456 edd-reviews.php:1154
+msgid "Update"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:493
+#: classes/class-edd-reviews-upgrades.php:110 edd-reviews.php:350
+#: edd-reviews.php:908
+msgid "Vendor Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:497 edd-reviews.php:1202
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:503
+msgid "Search Vendor Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:537
+msgid "Invalid Vendor Feedback ID"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:537 edd-reviews.php:1297
+msgid "Go Back"
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:541
+msgid "You are not allowed to edit vendor feedback."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:830
+msgid "%s feedback successfully updated."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:834
+msgid "%s feedback marked as approved."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:838
+msgid "%s feedback marked as unapproved."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:842
+msgid "%s feedback marked as spam."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:846
+msgid "%s feedback marked as not spam."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:850
+msgid "%s feedback marked has been moved to the trash."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:854
+msgid "%s feedback marked has been restored."
+msgstr ""
+
+#: classes/class-edd-reviews-fes-integration.php:858
+msgid "%s feedback marked has been deleted permanently."
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:174
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:175
+msgid "All"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:178
+#: classes/class-edd-reviews-list-table.php:763
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:179
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:701
+msgid "Trash"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:195
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:283
+#: templates/reviews.php:43 templates/shortcode-vendor-feedback.php:69
+msgid "Rating"
+msgstr "Noter"
+
+#: classes/class-edd-reviews-list-table.php:196 edd-reviews.php:1090
+#: templates/reviews.php:48
+msgid "Review"
+msgstr "Modifier"
+
+#: classes/class-edd-reviews-list-table.php:197
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:285
+msgid "Download"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:198
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:287
+msgid "Date"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:249
+#, fuzzy
+msgid "No reviews found."
+msgstr ""
+"Nous sommes désolés, il n'y a encore aucun avis sur cet hébergement pour le "
+"moment."
+
+#: classes/class-edd-reviews-list-table.php:269
+#: classes/class-edd-reviews-list-table.php:743
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:201
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:681
+msgid "Unapprove"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:273
+#: classes/class-edd-reviews-list-table.php:741
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:205
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:679
+msgid "Approve"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:283
+#: classes/class-edd-reviews-list-table.php:757
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:695
+msgid "Restore"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:284
+#: classes/class-edd-reviews-list-table.php:761
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:215
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:699
+msgid "Delete Permanently"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:437
+msgid "Submitted on"
+msgstr ""
+
+#. translators: comment date format. See http:php.net/date
+#: classes/class-edd-reviews-list-table.php:439
+#: classes/class-edd-reviews-list-table.php:518
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:489
+msgid "Y/m/d"
+msgstr ""
+
+#. translators: %s: comment link
+#: classes/class-edd-reviews-list-table.php:452
+#, fuzzy
+msgid "In reply to a review by %s"
+msgstr "Seuls les acheteurs peuvent créer de nouveaux sujets."
+
+#: classes/class-edd-reviews-list-table.php:519
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:490
+msgid "at"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:741
+#, fuzzy
+msgid "Approve this Review"
+msgstr "Laisser un avis"
+
+#: classes/class-edd-reviews-list-table.php:743
+#, fuzzy
+msgid "Unapprove this Review"
+msgstr "Laisser un avis"
+
+#: classes/class-edd-reviews-list-table.php:747
+#, fuzzy
+msgid "Edit this Review"
+msgstr "Modifier"
+
+#: classes/class-edd-reviews-list-table.php:747
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:685
+#: classes/class-walker-edd-review.php:108
+msgid "Edit"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:751
+msgid "Mark this Review as Spam"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:753
+msgid "Mark this Review as Not Spam"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:757
+#, fuzzy
+msgid "Restore this Review"
+msgstr "Avis Récents"
+
+#: classes/class-edd-reviews-list-table.php:761
+#, fuzzy
+msgid "Delete this Review"
+msgstr "Avis Récents"
+
+#: classes/class-edd-reviews-list-table.php:763
+msgid "Send this Review to Trash"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:775
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:713
+#, fuzzy
+msgid "Show more details"
+msgstr "Affiche les commentaires"
+
+#: classes/class-edd-reviews-upgrades.php:76
+msgid ""
+"Easy Digital Downloads needs to upgrade the reviews database, click <a href="
+"\"%s\">here</a> to start the upgrade."
+msgstr ""
+
+#: classes/class-edd-reviews-upgrades.php:95
+msgid "You do not have permission to do shop upgrades"
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:284
+#: edd-reviews.php:925
+msgid "Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:286
+msgid "Vendor"
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:332
+msgid "Nothing found."
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:679
+msgid "Approve this Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:681
+msgid "Unapprove this Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:685
+msgid "Edit this Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:689
+msgid "Mark this Feedback as Spam"
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:691
+msgid "Mark this Feedback as Not Spam"
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:695
+msgid "Restore this Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:699
+msgid "Delete this Feedback"
+msgstr ""
+
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:701
+msgid "Send this Feedback to Trash"
+msgstr ""
+
+#: classes/class-walker-edd-review.php:81
+msgid "Verified Purchase"
+msgstr ""
+
+#: classes/class-walker-edd-review.php:113
+msgid "Your review is awaiting moderation."
+msgstr ""
+
+#: classes/shortcodes/class-edd-reviews-shortcode-review.php:77
+#, fuzzy
+msgid "Review not found."
+msgstr "L'avis n'a pas été trouvé."
+
+#: classes/shortcodes/class-edd-reviews-shortcode-review.php:114
+msgid "by"
+msgstr "par"
+
+#: classes/shortcodes/class-edd-reviews-shortcode-review.php:118
+#: edd-reviews.php:1882
+msgid "stars"
+msgstr "étoiles"
+
+#: classes/shortcodes/class-edd-reviews-vendor-feedback.php:40
+msgid "Sorry, there was trouble retrieving your purchase details."
+msgstr ""
+
+#: classes/widgets/class-featured-review-widget.php:36
+#, fuzzy
+msgid "EDD Featured Review"
+msgstr "Vos %s EDD mis en avant."
+
+#: classes/widgets/class-featured-review-widget.php:39
+msgid "Display a featured review."
+msgstr "Affiche un avis en avant."
+
+#: classes/widgets/class-featured-review-widget.php:59
+msgid "Featured Review "
+msgstr "Avis en avant"
+
+#: classes/widgets/class-featured-review-widget.php:65
+msgid ""
+"No review was selected. Please configure it from within the widget settings."
+msgstr ""
+"Aucun avis n'a été sélectionné. Vous pouvez le configurer dans les réglages "
+"du widget."
+
+#: classes/widgets/class-featured-review-widget.php:143
+#: classes/widgets/class-per-product-reviews-widget.php:221
+#: classes/widgets/class-reviews-widget.php:212
+#, fuzzy
+msgid "Title:"
+msgstr "Titre"
+
+#: classes/widgets/class-featured-review-widget.php:148
+msgid "Review to display:"
+msgstr "Avis à afficher :"
+
+#: classes/widgets/class-per-product-reviews-widget.php:39
+#, fuzzy
+msgid "EDD Per Product Reviews"
+msgstr "Des frais par produit avec EDD_Fees"
+
+#: classes/widgets/class-per-product-reviews-widget.php:44
+msgid "Display the latest reviews about a specific download."
+msgstr "Afficher les derniers avis sur un téléchargement spécifique."
+
+#: classes/widgets/class-per-product-reviews-widget.php:52
+#: classes/widgets/class-reviews-widget.php:87
+msgid "Recent Reviews"
+msgstr "Avis Récents"
+
+#: classes/widgets/class-per-product-reviews-widget.php:175
+#: classes/widgets/class-reviews-widget.php:156 edd-reviews.php:2117
+#, fuzzy
+msgid "There are no reviews yet."
+msgstr ""
+"Nous sommes désolés, il n'y a encore aucun avis sur cet hébergement pour le "
+"moment."
+
+#: classes/widgets/class-per-product-reviews-widget.php:225
+#: classes/widgets/class-reviews-widget.php:217
+msgid "Number of reviews to show:"
+msgstr "Nombre d'avis à afficher :"
+
+#: classes/widgets/class-reviews-widget.php:36
+msgid "EDD Reviews"
+msgstr "EDD Reviews"
+
+#: classes/widgets/class-reviews-widget.php:39
+msgid "Display the latest reviews posted on your store."
+msgstr "Afficher les derniers avis publiés sur votre boutique."
+
+#: edd-reviews.php:159 edd-reviews.php:171
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors on essaye de tricher&nbsp;?"
+
+#: edd-reviews.php:585
+msgid ""
+"You are only allowed to post one review for this %s. Multiple reviews have "
+"been disabled."
+msgstr ""
+
+#: edd-reviews.php:586
+msgid "Multiple Reviews Not Allowed"
+msgstr "Les avis multiples ne sont pas autorisés"
+
+#: edd-reviews.php:778 edd-reviews.php:1602
+msgid "Thank you for your feedback."
+msgstr "Merci pour votre retour."
+
+#: edd-reviews.php:811 edd-reviews.php:827 edd-reviews.php:999
+#: edd-reviews.php:1199 edd-reviews.php:1536 edd-reviews.php:2131
+msgid "Reviews"
+msgstr "Avis"
+
+#: edd-reviews.php:832
+#, fuzzy
+msgid "Enable review breakdown"
+msgstr "Note moyenne des avis sur l'hébergement"
+
+#: edd-reviews.php:833
+msgid ""
+"This will show how many people have rated the download at each star rating. "
+"It will display at the top of the Reviews section on the download page."
+msgstr ""
+
+#: edd-reviews.php:839
+msgid "Disable multiple reviews by same author"
+msgstr ""
+
+#: edd-reviews.php:840
+msgid ""
+"This will disallow authors to post multiple reviews on the same download."
+msgstr ""
+
+#: edd-reviews.php:846
+#, fuzzy
+msgid "Disable voting on reviews"
+msgstr "Désactiver css"
+
+#: edd-reviews.php:847
+msgid "Disables the voting feature that is displayed under each review."
+msgstr ""
+
+#: edd-reviews.php:853
+#, fuzzy
+msgid "Only allow reviews by buyers"
+msgstr "Seuls les acheteurs peuvent créer de nouveaux sujets."
+
+#: edd-reviews.php:854
+msgid ""
+"This will only allow customers who have purchased the download to review it. "
+"It will require them to login in order for the purchase to be verified."
+msgstr ""
+
+#: edd-reviews.php:860
+msgid "Minimum word count"
+msgstr ""
+
+#: edd-reviews.php:861
+msgid "This will enforce a minimum word count for reviews."
+msgstr ""
+
+#: edd-reviews.php:868
+msgid "Maximum word count"
+msgstr ""
+
+#: edd-reviews.php:869
+msgid "This will enforce a maximum word count for reviews."
+msgstr ""
+
+#: edd-reviews.php:876
+#, fuzzy
+msgid "Enable Reviewer Discount"
+msgstr "Note moyenne des avis sur l'hébergement"
+
+#: edd-reviews.php:877
+msgid ""
+"This will email each reviewer a discount code to use once their review has "
+"been approved. The discount they are given is a one-time use discount."
+msgstr ""
+
+#: edd-reviews.php:883
+#, fuzzy
+msgid "Reviewer Discount Amount"
+msgstr "L'avis %s n'a pas été trouvé !"
+
+#: edd-reviews.php:884
+msgid ""
+"The percentage discount amount that will be provided to each reviewer. For "
+"example: for 10%, enter 10. (Only applicable if the reviewer discount option "
+"is enabled.)"
+msgstr ""
+
+#: edd-reviews.php:891
+#, fuzzy
+msgid "Disable EDD Reviews CSS"
+msgstr "Désactiver css"
+
+#: edd-reviews.php:892
+msgid ""
+"Check this to disable styling for the reviews provided by the EDD Reviews "
+"plugin"
+msgstr ""
+
+#: edd-reviews.php:898
+msgid "Remove Data on Uninstall?"
+msgstr ""
+
+#: edd-reviews.php:899
+msgid ""
+"Check this box if you would like Reviews to completely remove all of its "
+"data when the plugin is deleted."
+msgstr ""
+
+#: edd-reviews.php:913
+msgid "Vendor Feedback Page"
+msgstr ""
+
+#: edd-reviews.php:914
+msgid ""
+"The page where customers can go to leave feedback for vendors of downloads."
+msgstr ""
+
+#: edd-reviews.php:918
+msgid "Select a page"
+msgstr ""
+
+#: edd-reviews.php:922
+msgid "Vendor Feedback Heading"
+msgstr ""
+
+#: edd-reviews.php:923
+msgid "The heading label used on the Purchase History table"
+msgstr ""
+
+#: edd-reviews.php:930
+msgid "Vendor Feedback Link Text"
+msgstr ""
+
+#: edd-reviews.php:931
+msgid ""
+"The text for the link to provide Vendor Feedback displayed on the Purchase "
+"History table"
+msgstr ""
+
+#: edd-reviews.php:938
+msgid "Vendor Feedback Form Heading"
+msgstr ""
+
+#: edd-reviews.php:939
+msgid "The text displayed above the Vendor Feedback form"
+msgstr ""
+
+#: edd-reviews.php:941 templates/shortcode-vendor-feedback.php:53
+msgid "Rate Your Experience"
+msgstr ""
+
+#: edd-reviews.php:975 edd-reviews.php:984
+msgid "View Reviews"
+msgstr "Afficher les avis"
+
+#: edd-reviews.php:1013 edd-reviews.php:1035
+#, fuzzy
+msgid "Edit Review"
+msgstr "Modifier"
+
+#: edd-reviews.php:1039
+msgid "Review updated successfully"
+msgstr ""
+
+#: edd-reviews.php:1111
+#, fuzzy
+msgid "View Review"
+msgstr "Afficher les avis"
+
+#: edd-reviews.php:1188
+msgid "Reviews on &#8220;%s&#8221;"
+msgstr ""
+
+#: edd-reviews.php:1219
+msgid "%s review approved"
+msgid_plural "%s reviews approved"
+msgstr[0] ""
+msgstr[1] ""
+
+#: edd-reviews.php:1223
+msgid "%s review marked as spam."
+msgid_plural "%s reviews marked as spam."
+msgstr[0] ""
+msgstr[1] ""
+
+#: edd-reviews.php:1227
+msgid "%s review restored from the spam"
+msgid_plural "%s reviews restored from the spam"
+msgstr[0] ""
+msgstr[1] ""
+
+#: edd-reviews.php:1231
+msgid "%s review moved to the Trash."
+msgid_plural "%s reviews moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#: edd-reviews.php:1235
+msgid "%s review restored from the Trash"
+msgid_plural "%s reviews restored from the Trash"
+msgstr[0] ""
+msgstr[1] ""
+
+#: edd-reviews.php:1239
+msgid "%s review permanently deleted"
+msgid_plural "%s reviews permanently deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: edd-reviews.php:1247
+#, fuzzy
+msgid "Search Reviews"
+msgstr "Avis Récents"
+
+#: edd-reviews.php:1297
+#, fuzzy
+msgid "Invalid Review ID"
+msgstr "Avis en avant"
+
+#: edd-reviews.php:1301
+msgid "You are not allowed to edit reviews for this post."
+msgstr ""
+
+#: edd-reviews.php:1357
+#, fuzzy
+msgid ""
+"You must install %sEasy Digital Downloads%s for the Reviews Add-On to work."
+msgstr ""
+"Vous devez installer %sEasy Digital Downloads%s pour que l'extension VAT "
+"fonctionne"
+
+#: edd-reviews.php:1531
+#, fuzzy
+msgid "%s Reviews for %s"
+msgstr "n&#8217;a pas d'avis"
+
+#: edd-reviews.php:1539
+msgid "Submitting new reviews to this %s has been closed."
+msgstr ""
+
+#: edd-reviews.php:1610
+msgid "Help other customers find the most helpful reviews"
+msgstr ""
+
+#: edd-reviews.php:1612
+msgid "Did you find this review helpful?"
+msgstr "Avez-vous trouver cet avis utile ?"
+
+#: edd-reviews.php:1614 templates/reviews-fes-vendor-feedback.php:20
+#: templates/shortcode-vendor-feedback.php:77
+#, fuzzy
+msgid "Yes"
+msgstr "oui"
+
+#: edd-reviews.php:1614 templates/reviews-fes-vendor-feedback.php:20
+#: templates/shortcode-vendor-feedback.php:82
+msgid "No"
+msgstr "Non"
+
+#: edd-reviews.php:1695
+msgid "%s of %s people found this review helpful."
+msgstr "%s personne(s) sur %s a (ont) trouvé cet avis utile."
+
+#: edd-reviews.php:1736 templates/reviews.php:70
+msgid "You must log in and be a buyer of this %s to submit a review."
+msgstr ""
+
+#: edd-reviews.php:1812 edd-reviews.php:3135
+msgid "Average rating:"
+msgstr ""
+
+#: edd-reviews.php:1812
+msgid "out of 5 stars"
+msgstr ""
+
+#: edd-reviews.php:1829
+msgid "review"
+msgid_plural "reviews"
+msgstr[0] "avis"
+msgstr[1] "avis"
+
+#: edd-reviews.php:1862
+msgid "star"
+msgid_plural "stars"
+msgstr[0] "étoile"
+msgstr[1] "étoiles"
+
+#: edd-reviews.php:2003
+msgid "Easy Digital Downloads Recent Reviews"
+msgstr "Easy Digital Downloads Recent Reviews"
+
+#: edd-reviews.php:2091
+#, fuzzy
+msgid "on"
+msgstr " sur "
+
+#: edd-reviews.php:2101
+msgid "By"
+msgstr "Par"
+
+#: edd-reviews.php:2129
+msgid ""
+"Disabling reviews will not show any reviews whatsoever. However, closing "
+"reviews will stop any new reviews from being accepted."
+msgstr ""
+
+#: edd-reviews.php:2130
+#, fuzzy
+msgid "Reviews Status %s"
+msgstr "n&#8217;a pas d'avis"
+
+#: edd-reviews.php:2146
+#, fuzzy
+msgid "Disable Reviews"
+msgstr "Désactiver css"
+
+#: edd-reviews.php:2150
+#, fuzzy
+msgid "Enable Reviews"
+msgstr "Modifier"
+
+#: edd-reviews.php:2154
+#, fuzzy
+msgid "Open Reviews"
+msgstr "Avis Récents"
+
+#: edd-reviews.php:2158
+#, fuzzy
+msgid "Close Reviews"
+msgstr "Afficher les avis"
+
+#: edd-reviews.php:2181
+#, fuzzy
+msgid "Show all reviews"
+msgstr "Permettre les avis."
+
+#: edd-reviews.php:2245
+#, fuzzy
+msgid "%sError%s: Please add a review title."
+msgstr "s'il vous plaît %s pour ajouter votre avis."
+
+#: edd-reviews.php:2249
+msgid "%sError%s: Please add a valid rating between 1 and 5."
+msgstr ""
+
+#: edd-reviews.php:2365
+msgid "Review %s not found!"
+msgstr "L'avis %s n'a pas été trouvé !"
+
+#: edd-reviews.php:2568
+#, fuzzy
+msgid "Write a Review"
+msgstr "Laisser un avis"
+
+#: edd-reviews.php:2569
+msgid "Submit Review"
+msgstr "Soumettre votre avis"
+
+#: edd-reviews.php:2570
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"%4$s\">"
+"%5$s</a>"
+msgstr ""
+
+#: edd-reviews.php:2570
+msgid "Log out of this account"
+msgstr ""
+
+#: edd-reviews.php:2570
+msgid "Log out?"
+msgstr ""
+
+#: edd-reviews.php:2596 templates/shortcode-vendor-feedback.php:92
+#, fuzzy
+msgid "Submit Feedback"
+msgstr "Soumettre votre avis"
+
+#: edd-reviews.php:2845 edd-reviews.php:2970
+msgid "Sorry, you must be logged in to post a review."
+msgstr ""
+
+#: edd-reviews.php:2852
+msgid "<strong>ERROR</strong>: please type a review."
+msgstr ""
+
+#: edd-reviews.php:2856
+msgid "<strong>ERROR</strong>: please enter a rating."
+msgstr ""
+
+#: edd-reviews.php:2860
+#, fuzzy
+msgid "<strong>ERROR</strong>: please enter a review title."
+msgstr "s'il vous plaît %s pour ajouter votre avis."
+
+#: edd-reviews.php:2864
+msgid ""
+"<strong>ERROR</strong>: please ensure your review has the minimum word count."
+msgstr ""
+
+#: edd-reviews.php:2868
+msgid "<strong>ERROR</strong>: your review exceeds the maximum word count."
+msgstr ""
+
+#: edd-reviews.php:2977
+msgid "<strong>ERROR</strong>: please type a reply."
+msgstr ""
+
+#: edd-reviews.php:3186 edd-reviews.php:3228
+#, fuzzy
+msgid "Insert Review"
+msgstr "Avis Récents"
+
+#: edd-reviews.php:3207
+msgid "You must choose a review"
+msgstr ""
+
+#: edd-reviews.php:3217
+msgid "Select a Review to Embed"
+msgstr "Sélectionnez un avis à intégrer"
+
+#: edd-reviews.php:3229
+msgid "Cancel"
+msgstr ""
+
+#: edd-reviews.php:3232
+msgid "No Reviews Have Been Created Yet"
+msgstr "Aucun avis n'a encore été créé"
+
+#: edd-reviews.php:3272
+msgid ""
+"<p>Hello,</p> <p>Thank you for reviewing <a href=\"%s\">%s</a>. As a gesture "
+"of our appreciation, we'd like to give you a discount code to use on a "
+"future purchase.</p> <p>Discount code: %s</p>"
+msgstr ""
+
+#: edd-reviews.php:3273 edd-reviews.php:3274
+#, fuzzy
+msgid "Reviewer Discount Code"
+msgstr "L'avis %s n'a pas été trouvé !"
+
+#: edd-reviews.php:3377
+msgid "Login to reply"
+msgstr ""
+
+#: edd-reviews.php:3378 templates/reviews-reply.php:15
+#, fuzzy
+msgid "Leave a reply"
+msgstr "Laisser un avis"
+
+#: edd-reviews.php:3379
+msgid "Reply to %s"
+msgstr ""
+
+#: templates/reviews-fes-vendor-feedback.php:16
+msgid "Item:"
+msgstr ""
+
+#: templates/reviews-fes-vendor-feedback.php:17
+#: templates/shortcode-vendor-feedback.php:56
+msgid "Date:"
+msgstr ""
+
+#: templates/reviews-fes-vendor-feedback.php:18
+msgid "Author:"
+msgstr ""
+
+#: templates/reviews-fes-vendor-feedback.php:20
+msgid "Item as Described:"
+msgstr ""
+
+#: templates/reviews-fes-vendor-feedback.php:27
+msgid "No Vendor Feedback Found"
+msgstr ""
+
+#: templates/reviews-reply.php:15
+msgid "Cancel reply"
+msgstr ""
+
+#: templates/reviews-reply.php:22
+#, fuzzy
+msgid "Comment"
+msgstr "Affiche les commentaires"
+
+#: templates/reviews-reply.php:27
+msgid "Post Reply"
+msgstr ""
+
+#: templates/reviews.php:38
+msgid "Review Title"
+msgstr "Titre de l'avis"
+
+#: templates/reviews.php:53
+#, fuzzy
+msgid "Post Review"
+msgstr "Avis sur le produit"
+
+#: templates/reviews.php:63
+msgid "You must log in to submit a review."
+msgstr ""
+
+#: templates/reviews.php:72
+msgid "You must be a buyer of this %s to submit a review."
+msgstr ""
+
+#: templates/shortcode-vendor-feedback.php:15
+msgid "Your feedback has been successfully submitted."
+msgstr ""
+
+#: templates/shortcode-vendor-feedback.php:20
+msgid "The specified receipt ID appears to be invalid"
+msgstr ""
+
+#: templates/shortcode-vendor-feedback.php:57
+msgid "Receipt"
+msgstr ""
+
+#: templates/shortcode-vendor-feedback.php:58
+msgid "Vendor:"
+msgstr ""
+
+#: templates/shortcode-vendor-feedback.php:74
+msgid "%1$s as described by the vendor?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Digital Downloads - Reviews"
+msgstr "Easy Digital Downloads - Reviews"
+
+#. Plugin URI of the plugin/theme
+msgid "http://easydigitaldownloads.com/extension/reviews/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A fully featured reviewing system for Easy Digital Downloads."
+msgstr ""
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "Easy Digital Downloads (Lead Developer: Sunny Ratilal)"
+msgstr "Easy Digital Downloads Recent Reviews"
+
+#. Author URI of the plugin/theme
+msgid "http://easydigitaldownloads.com/"
+msgstr ""
+
+#: classes/class-edd-reviews-download-list-table.php:48
+#, fuzzy
+msgctxt "column name"
+msgid "Review"
+msgstr "Modifier"
+
+#: classes/class-edd-reviews-download-list-table.php:49
+#, fuzzy
+msgctxt "column name"
+msgid "Rating"
+msgstr "Noter"
+
+#: classes/class-edd-reviews-list-table.php:264
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:196
+msgctxt "vendor_feedback"
+msgid "Mark as Spam"
+msgstr ""
+
+#: classes/class-edd-reviews-list-table.php:278
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:210
+msgctxt "vendor_feedback"
+msgid "Not Spam"
+msgstr ""
+
+#. translators: mark as spam link
+#: classes/class-edd-reviews-list-table.php:751
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:689
+msgctxt "verb"
+msgid "Spam"
+msgstr ""
+
+#. translators: mark as not spam link
+#: classes/class-edd-reviews-list-table.php:753
+#: classes/class-edd-reviews-vendor-feedback-list-table.php:691
+msgctxt "verb"
+msgid "Not Spam"
+msgstr ""
+
+#: classes/class-walker-edd-review.php:106
+#, fuzzy
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s sur %2$s"
+
+#~ msgid "Recent reviews"
+#~ msgstr "Avis récents"
+
+#, fuzzy
+#~ msgid "Review Information"
+#~ msgstr "Pages d'information de l'avis"
+
+#, fuzzy
+#~ msgid "Review Title:"
+#~ msgstr "Titre de l'avis"
+
+#~ msgid "API Documentation"
+#~ msgstr "Documentation de l'API"

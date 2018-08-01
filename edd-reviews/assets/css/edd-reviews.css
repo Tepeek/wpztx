@@ -1,0 +1,315 @@
+/**
+ * EDD Reviews CSS
+ *
+ * Copyright (c) 2016, Sunny Ratilal.
+ */
+
+.edd-reviews-form {
+	overflow: hidden;
+}
+
+.clear {
+	clear: both;
+}
+
+.edd-reviews-form label {
+	display: block;
+}
+
+.review-title:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+.edd_reviews_rating_box {
+	float: left;
+}
+
+.edd-review-microdata {
+	display: none;
+}
+
+.review-title-text {
+	margin-right: 7px;
+	font-weight: bold;
+}
+
+.comment-meta .meta-top {
+	display: block;
+	overflow: hidden;
+}
+
+.comment-meta .meta {
+	display: block;
+	float: none;
+	margin-left: 10px;
+}
+
+.edd_review {
+	margin: 10px 0;
+	position: relative;
+	outline: none;
+	list-style: none;
+	padding: 20px 0;
+}
+
+.edd_review .avatar {
+	border-radius: 4px;
+	float: left;
+	margin-right: 20px;
+}
+
+.edd_review .edd-review-dateline {
+	padding: 8px;
+	color: #999;
+	font: 12px/16px "Helvetica Neue", Arial, sans-serif;
+}
+
+.edd-review-review-helpful {
+	margin: 10px 0;
+	clear: both;
+}
+
+.edd-review-review-helpful .edd-review-voting-feedback {
+	font-size: 90%;
+	margin-bottom: 5px;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.edd-review-review-helpful .edd-review-voting-feedback + p,
+.edd-review-review-helpful p {
+	margin-bottom: 15px;
+	font-weight: bold;
+	font-size: 90%;
+}
+
+.edd-review-review-helpful p + p {
+	margin-bottom: 0;
+	font-weight: normal;
+}
+
+.edd-review-vote {
+	display: none;
+	padding: 10px;
+	background: #eee;
+}
+
+.edd-reviews-not-allowed {
+	background: #eee;
+	display: block;
+	padding: 10px;
+}
+
+.edd-yellowfade {
+	-webkit-animation: yellow-fade 3s 1;
+	-moz-animation: yellow-fade 3s 1;
+	-ms-animation: yellow-fade 3s 1;
+	-o-animation: yellow-fade 3s 1;
+	animation: yellow-fade 3s 1;
+}
+
+.edd-reviews-star-rating-container {
+	position: relative;
+}
+
+.edd-reviews-star-rating {
+	display: inline-block;
+	cursor: pointer;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	height: 20px;
+	line-height: 1;
+	text-align: center;
+	text-decoration: inherit;
+	vertical-align: top;
+	width: 20px;
+}
+
+.edd-reviews-stars-filled {
+	position: absolute;
+	width: 0;
+	overflow: hidden;
+	height: 20px;
+}
+
+.edd_reviews_breakdown {
+	margin: 20px 0;
+}
+
+.edd_reviews_breakdown .edd-counter-container {
+	display: block;
+	margin: 3px 0;
+	padding: 0;
+}
+
+.edd_reviews_breakdown .edd-counter-container:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+.edd_reviews_breakdown .edd-counter-label {
+	float: left;
+	margin-right: 4px;
+}
+
+.edd_reviews_breakdown .edd-review-count {
+	float: left;
+	margin-left: 4px;
+}
+
+.edd_reviews_breakdown .edd-counter-front {
+	float: left;
+	background: #f1c40f;
+	height: 20px;
+	display: block;
+}
+
+.edd_reviews_breakdown .edd-counter-container-1 .edd-counter-back {
+	margin-left: 7px;
+}
+
+.edd_reviews_breakdown .edd-counter-back {
+	width: 100%;
+	max-width: 100px;
+	background: #ececec;
+	height: 20px;
+	float: left;
+}
+
+.edd_reviews_breakdown .edd-reviews-total-count {
+	font-weight: bold;
+}
+
+.edd-reviews-vendor-feedback-item {
+	border: 1px solid #eee;
+	padding: 20px;
+	margin-bottom: 25px;
+}
+
+.edd-reviews-vendor-feedback-item:last-child {
+	margin-bottom: 0;
+}
+
+.edd-reviews-vendor-feedback-item h3 {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.edd-reviews-vendor-feedback-item-wrap {
+	background: #eee;
+	padding: 20px;
+}
+
+.edd-reviews-vendor-feedback-item .wp-post-image {
+	float: left;
+	border: 1px solid #eee;
+	padding: 3px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+}
+
+.edd-reviews-vendor-feedback-item-wrap label {
+	font-weight: bold;
+	width: 200px;
+	display: inline-block;
+}
+
+.edd-reviews-vendor-feedback-item-wrap label + label {
+	margin-right: 10px;
+}
+
+.edd-reviews-vendor-feedback-item-wrap label + label,
+.edd-reviews-vendor-feedback-item-wrap label + label + label {
+	font-weight: normal;
+	display: inline;
+	width: auto;
+}
+
+.edd-reviews-vendor-feedback-item-wrap p:last-child {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.edd-review-shortcode-body {
+	border: 1px solid #eee;
+ 	padding: 20px;
+ 	margin-bottom: 20px;
+}
+
+.edd-reviews-awaiting-moderation {
+	font-style: italic;
+	font-weight: bold;
+}
+
+/* Vendd Specific */
+.vendd-download-information .edd-reviews-rating {
+	padding: 0 20px 10px;
+}
+
+/* Twenty Thirteen Specific */
+.single-download .comments-area .no-comments {
+	display: none;
+}
+
+.single-download .comments-area .edd_reviews_breakdown {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 604px;
+	width: 100%;
+}
+
+@keyframes "yellow-fade" {
+	0% {
+		background-color: #ffff99;
+	}
+	100% {
+		background-color: #ecf0f1;
+	}
+}
+
+@-moz-keyframes yellow-fade {
+	0% {
+		background-color: #ffff99;
+	}
+	100% {
+		background-color: #ecf0f1;
+	}
+}
+
+@-webkit-keyframes "yellow-fade" {
+	0% {
+		background-color: #ffff99;
+	}
+	100% {
+		background-color: #ecf0f1;
+	}
+}
+
+@-ms-keyframes "yellow-fade" {
+	0% {
+		background-color: #ffff99;
+	}
+	100% {
+		background-color: #ecf0f1;
+	}
+}
+
+@-o-keyframes "yellow-fade" {
+	0% {
+		background-color: #ffff99;
+	}
+	100% {
+		background-color: #ecf0f1;
+	}
+}

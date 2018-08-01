@@ -1,0 +1,169 @@
+/**
+ * EDD Reviews Admin CSS.
+ *
+ * Copyright (c) 2017, Sunny Ratilal.
+ */
+
+#edd-reviews-list .avatar {
+    float: left;
+    margin: 0 10px 5px 0;
+}
+
+#edd-reviews-list .edd-dashboard-review-wrap {
+    overflow: hidden;
+    word-wrap: break-word;
+}
+
+#edd-reviews-list .edd-dashboard-review-wrap p {
+    color: #777;
+    margin: 0;
+    padding: 0;
+}
+#edd-reviews-list .edd-dashboard-review-wrap blockquote {
+    margin-left: 0;
+}
+#edd_reviews_review_meta_box {
+	margin-top: 20px;
+}
+
+.edd-reviews-no-reviews-yet {
+	padding: 0 12px 12px;
+}
+
+#edd-reviews-list .edd-review-unapproved th.check-column,
+.edd-reviews-vendor-feedback-unapproved th.check-column {
+	border-left: 4px solid #d54e21;
+}
+
+#edd-reviews-list .edd-review-unapproved th,
+#edd-reviews-list .edd-review-unapproved td,
+.edd-reviews-vendor-feedback-unapproved th,
+.edd-reviews-vendor-feedback-unapproved td,
+.edd-reviews-box .edd-review-unapproved th,
+.edd-reviews-box .edd-review-unapproved td {
+	background-color: #fef7f1;
+}
+
+#edd-reviews-list .edd-reviews-unapprove a,
+.edd-reviews-vendor-feedback-unapprove a,
+.edd-reviews-box .edd-reviews-unapprove a {
+	color: #d98500;
+}
+
+#edd-reviews-list .edd-reviews-approve a,
+#edd-reviews-list .edd-reviews-untrash a,
+.edd-reviews-vendor-feedback-approve a,
+.edd-reviews-vendor-feedback-untrash a,
+.edd-reviews-box .edd-reviews-approve a,
+.edd-reviews-box .edd-reviews-untrash a {
+	color: #006505;
+}
+
+#edd-reviews-list .edd-reviews-spam a,
+#edd-reviews-list .edd-reviews-trash a,
+#edd-reviews-list .edd-reviews-delete a,
+.edd-reviews-vendor-feedback-spam a,
+.edd-reviews-vendor-feedback-trash a,
+.edd-reviews-vendor-feedback-delete a,
+.edd-reviews-box .edd-reviews-spam a,
+.edd-reviews-box .edd-reviews-trash a,
+.edd-reviews-box .edd-reviews-delete a {
+	color: #a00;
+}
+
+.edd-review-approved .edd-reviews-approve,
+.edd-review-unapproved .edd-reviews-unapprove,
+.edd-review-approved .edd-reviews-unspam,
+.edd-review-approved .edd-reviews-untrash,
+.edd-review-approved .edd-reviews-delete,
+.edd-review-unapproved .edd-reviews-unspam,
+.edd-review-unapproved .edd-reviews-untrash,
+.edd-review-unapproved .edd-reviews-delete {
+	display: none;
+}
+
+.edd-review-unapproved .edd-reviews-approve {
+	display: inline-block;
+}
+
+#edd-reviews-list-header .column-author {
+	width: 20%;
+}
+
+#edd-reviews-list-header .column-rating,
+.edd-reviews-box .column-rating {
+	width: 15%;
+}
+
+#edd-reviews-list-header .column-download {
+	width: 15%;
+}
+
+#edd-reviews-list .column-review .review-author,
+#edd-reviews-list .column-review .submitted-on {
+	display: none;
+}
+
+#edd_reviews_dashboard_recent_reviews {
+	overflow: hidden;
+}
+
+#edd_reviews_dashboard_recent_reviews .inside {
+	padding: 0;
+	margin-top: 0;
+}
+
+#edd_reviews_dashboard_recent_reviews #edd-reviews-list {
+	position: relative;
+}
+
+#edd_reviews_dashboard_recent_reviews #edd-reviews-list .review-item {
+	padding: 1em 12px;
+	border-top: 1px solid #eeeeee;
+	min-height: 50px;
+	background: #fafafa;
+}
+
+#edd_reviews_dashboard_recent_reviews #edd-reviews-list .review-item:first-child {
+	border-top: none;
+}
+
+#edd_reviews_dashboard_recent_reviews .subsubsub {
+	float: none;
+	border-top: 1px solid #eee;
+	margin-top: 0;
+	padding: 8px 12px 4px;
+}
+
+#edd_reviews_dashboard_recent_reviews .subsubsub li {
+	color: #ddd;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+
+#edd_reviews_dashboard_recent_reviews .subsubsub a {
+	text-decoration: none;
+}
+
+.edd-reviews-box .avatar {
+	float: left;
+	margin-right: 12px;
+}
+
+@media screen and ( max-width: 782px ) {
+	#edd-reviews-list .column-review .review-author,
+	#edd-reviews-list .column-review .submitted-on {
+		display: block;
+	}
+
+	#edd-reviews-list .is-expanded .column-review .review-author,
+	#edd-reviews-list .is-expanded .column-review .submitted-on {
+		display: none;
+	}
+}
+
+.wp-media-buttons .edd-reviews-thickbox span.wp-media-buttons-icon {
+	font-size: 16px;
+}
