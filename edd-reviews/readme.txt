@@ -1,9 +1,9 @@
-=== Easy Digital Downloads - Reviews ===
+﻿=== Easy Digital Downloads - Reviews ===
 Contributors:      easydigitaldownloads, sunnyratilal
 Tags:              easy digital downloads, reviews, sunny ratilal, sunnyratilal, edd, ratings
 Requires at least: 4.4
 Tested up to:      5.0
-Stable tag:        2.1.9
+Version Tag:        2.1.9
 
 Adds a fully featured reviewing system for Easy Digital Downloads.
 
